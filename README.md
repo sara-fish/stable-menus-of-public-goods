@@ -1,6 +1,6 @@
 # Stable Menus of Public Goods
 
-This repo contains code used to obtain the computational results in our paper *Stable Menus of Public Goods*.
+This repo contains code used to obtain the computational results in our paper [*Stable Menus of Public Goods*](https://arxiv.org/abs/2402.11370).
 
 ## Installation instructions 
 
